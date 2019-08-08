@@ -1,2 +1,2 @@
 # Text-Analyser-
-This is a C++ program that analyse the differences between 2 text.
+This is a C++ program that analyse the differences between 2 text in terms of alphabets, word different, percentage, etc...
