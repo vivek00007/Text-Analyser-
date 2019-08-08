@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1554899337 source:c:\users\tbhik\desktop\text analyser\main.cpp
+	<iostream>
+	<ostream>
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+	"Sentences.h"
+	"Words.h"
+	<stdio.h>
+	<stdlib.h>
+
+1554192857 c:\users\tbhik\desktop\text analyser\include\sentences.h
+	<string>
+	<vector>
+	<cstring>
+
+1554234170 c:\users\tbhik\desktop\text analyser\include\words.h
+	<string>
+	<cstring>
+	<vector>
+
+1554192857 source:c:\users\tbhik\desktop\text analyser\src\sentences.cpp
+	"Sentences.h"
+	<iostream>
+	<cctype>
+	<cstring>
+
+1554234346 source:c:\users\tbhik\desktop\text analyser\src\words.cpp
+	"Words.h"
+	<iostream>
+	<cctype>
+	<cstring>
+
+1553530866 source:c:\users\tbhik\desktop\text analyser\src\characters.cpp
+
+1553439240 c:\users\tbhik\desktop\text analyser\include\characters.h
+	<string>
+	<cstring>
+	<vector>
+
+1555481986 source:c:\users\tbhik\desktop\year 1\text analyser\main.cpp
+	<iostream>
+	<ostream>
+	<iostream>
+	<fstream>
+	<vector>
+	<cmath>
+	"Sentences.h"
+	"Words.h"
+	<stdio.h>
+	<stdlib.h>
+
+1554192857 c:\users\tbhik\desktop\year 1\text analyser\include\sentences.h
+	<string>
+	<vector>
+	<cstring>
+
+1554234170 c:\users\tbhik\desktop\year 1\text analyser\include\words.h
+	<string>
+	<cstring>
+	<vector>
+
+1553530866 source:c:\users\tbhik\desktop\year 1\text analyser\src\characters.cpp
+
+1554192857 source:c:\users\tbhik\desktop\year 1\text analyser\src\sentences.cpp
+	"Sentences.h"
+	<iostream>
+	<cctype>
+	<cstring>
+
+1554234346 source:c:\users\tbhik\desktop\year 1\text analyser\src\words.cpp
+	"Words.h"
+	<iostream>
+	<cctype>
+	<cstring>
+
